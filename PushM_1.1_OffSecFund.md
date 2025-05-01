@@ -25,19 +25,55 @@ A couple of minutes passed by and my eyes was tired. And then guess what, I saw 
 
 
 ### Flags Captured
-* Unminify
+* Unminify (30/04/2025)
 ```txt
 picoCTF{pr3tty_c0d3_d9c45a0b}
 ```
-* Obedient Cat
+* Obedient Cat (30/04/2025)
 ```txt
   picoCTF{s4n1ty_v3r1f13d_4a2b35fd}
 ```
-* Super SSH
+* Super SSH (30/04/2025)
 ```txt
 picoCTF{s3cur3_c0nn3ct10n_65a7a106}
 ```
-* what's a net cat?
+* what's a net cat? (30/04/2025)
 ```txt
 picoCTF{nEtCat_Mast3ry_3214be47}
+```
+* Mod 26 (30/04/2025)
+```txt
+picoCTF{next_time_I'll_try_2_rounds_of_rot13_ZNMldSDw}
+```
+* Warmed Up (30/04/2025)
+```txt
+picoCTF{61}
+```
+* 2Warm (30/04/2025)
+```txt
+picoCTF{101010}
+```
+* Bases (30/04/2025)
+```txt
+picoCTF{l3arn_th3_r0p35}
+```
+* Wave a flag (01/05/2025)
+```txt
+picoCTF{b1scu1ts_4nd_gr4vy_d6969390}
+```
+* Table, Table, Attck (01/05/2025)
+```txt
+picoCTF{l3v3l_up!_t4k3_4_r35t!_f3553887}
+```
+* Insp3ct0r (01/05/2025)
+```
+picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?f10be399}
+```
+* strings it (01/05/2025)
+```txt
+picoCTF{5tRIng5_1T_7f766a23}
+```
+* First Grep (01/05/2025)
+```txt
+picoCTF{grep_is_good_to_find_things_f77e0797}
 ```
