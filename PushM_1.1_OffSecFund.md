@@ -9,8 +9,8 @@
 5. Challenge Successful
 ```
 ## Table of Content
-* [Introduction](https://github.com/Ze-Fn/CySec-Portfolio/edit/main/PushM_1.1_OffSecFund.md/#Introduction)
-* [Flags](https://github.com/Ze-Fn/CySec-Portfolio/edit/main/PushM_1.1_OffSecFund.md/#Flags)
+* [Introduction](https://github.com/Ze-Fn/CySec-Portfolio/main/PushM_1.1_OffSecFund.md/#Introduction)
+* [Flags](https://github.com/Ze-Fn/CySec-Portfolio/main/PushM_1.1_OffSecFund.md/#Flags)
 
 ### Introduction
 I followed the step-by-step instruction written by dibimbing.id. The goal was to get a hands-on offensive security practice/exercise. At first, I didn't know what to do in the practice/challenge/426 of picoCTF website. I mean, I know there is a webshell feature in picoCTF so that I can just use the linux-based environment in the browser, and I didn't need to install a VM. Moreover, luckily, the Unminify challenge does not really require webshell at all, I just clicked on the hyperlink provided in the instruction section of the challenge and then I could see the website. 
