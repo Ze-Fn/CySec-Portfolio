@@ -8,7 +8,11 @@
 4. Attempted the CTF
 5. Challenge Successful
 ```
+## Table of Content
+* [Main Content](/#Main-Content)
+* [Flags](/#Flags)
 
+### Main Content
 I followed the step-by-step instruction written by dibimbing.id. The goal was to get a hands-on offensive security practice/exercise. At first, I didn't know what to do in the practice/challenge/426 of picoCTF website. I mean, I know there is a webshell feature in picoCTF so that I can just use the linux-based environment in the browser, and I didn't need to install a VM. Moreover, luckily, the Unminify challenge does not really require webshell at all, I just clicked on the hyperlink provided in the instruction section of the challenge and then I could see the website. 
 
 Before I actually working on the "Push Method" (a learning method implemented by dibimbing.id for this CySec bootcamp), I stumnbled upon some resources along the way, especially from the picoCTF website. I was intrigued by the way to solve this CTF stuff as I haven't get my hands on this kind of activity/exercise ever. Therefore, I looked at some document on Web Exploitation (~/learning_guides/Book-3-Web-Exploitation). Alas, the document explains in a very technical language that even I couldn't keep up. I was kind of stressed by the overload of specialized, subject-specific jargons the document told so I looked up for the external sources picoCTF offered. I ended up discovering some books about Cyber Security, some of which are easy to follow and beginner-friendly such as:
@@ -20,7 +24,20 @@ I read the instruction while also looking at the website. I then navigate myself
 A couple of minutes passed by and my eyes was tired. And then guess what, I saw an option to "Line wrap" in the left-top-corner of the view-source page. I was like, "What the shell?! I spent minutes of my time just to suffer from reading this diabolical HTML file of a website?!" (a reference to https://primer.picoctf.org/#_what_the_shell). I saved my eyes from getting murdered by the agony-inducing HTML that website has. Then, I looked for the flag. There are some HTML classes that specifies flags but they seemed not like one because they only have "picoctf()". What I was looking for was something that has the word "picoCTF" and "{" with some nonsense words and then closed with "}". Not long after carefully investigating the code line by line, I finally found the flag. It was just near the end of the code.
 
 
-flag: 
+### Flags Captured
+* Unminify
 ```txt
 picoCTF{pr3tty_c0d3_d9c45a0b}
+```
+* Obedient Cat
+```txt
+  picoCTF{s4n1ty_v3r1f13d_4a2b35fd}
+```
+* Super SSH
+```txt
+picoCTF{s3cur3_c0nn3ct10n_65a7a106}
+```
+* what's a net cat?
+```txt
+picoCTF{nEtCat_Mast3ry_3214be47}
 ```
