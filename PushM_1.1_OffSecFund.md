@@ -9,10 +9,10 @@
 5. Challenge Successful
 ```
 ## Table of Content
-* [Main Content](/#Main-Content)
+* [Introduction](/#Introduction)
 * [Flags](/#Flags)
 
-### Main Content
+### Introduction
 I followed the step-by-step instruction written by dibimbing.id. The goal was to get a hands-on offensive security practice/exercise. At first, I didn't know what to do in the practice/challenge/426 of picoCTF website. I mean, I know there is a webshell feature in picoCTF so that I can just use the linux-based environment in the browser, and I didn't need to install a VM. Moreover, luckily, the Unminify challenge does not really require webshell at all, I just clicked on the hyperlink provided in the instruction section of the challenge and then I could see the website. 
 
 Before I actually working on the "Push Method" (a learning method implemented by dibimbing.id for this CySec bootcamp), I stumnbled upon some resources along the way, especially from the picoCTF website. I was intrigued by the way to solve this CTF stuff as I haven't get my hands on this kind of activity/exercise ever. Therefore, I looked at some document on Web Exploitation (~/learning_guides/Book-3-Web-Exploitation). Alas, the document explains in a very technical language that even I couldn't keep up. I was kind of stressed by the overload of specialized, subject-specific jargons the document told so I looked up for the external sources picoCTF offered. I ended up discovering some books about Cyber Security, some of which are easy to follow and beginner-friendly such as:
