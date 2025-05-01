@@ -77,3 +77,11 @@ picoCTF{5tRIng5_1T_7f766a23}
 ```txt
 picoCTF{grep_is_good_to_find_things_f77e0797}
 ```
+* First Find (01/05/2025)
+```txt
+picoCTF{f1nd_15_f457_ab443fd1}
+```
+* Big Zip
+```txt
+picoCTF{gr3p_15_m4g1c_ef8790dc}
+```
